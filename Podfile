@@ -7,5 +7,6 @@ target 'Tinder' do
 
   # Pods for Tinder
   pod 'Firebase/Core'
+  pod 'Firebase/Auth'
 
 end
